@@ -1,0 +1,40 @@
+# --- macOS 系統垃圾檔 (最重要) ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# --- 編輯器暫存檔 (避免編輯一半的備份檔上傳) ---
+# VS Code
+.vscode/
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+# 一般文字編輯器
+*~
+*.swp
+*.bak
+*.tmp
+
+# --- 敏感資料 (資安防護) ---
+.env
+.env.local
+private_keys/
+
+# --- 書籍專案特定排除 ---
+Drafts/
+Archive/
+*.log
+
+# --- Windows 系統垃圾檔 (防止 Windows 讀者貢獻時帶入) ---
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
