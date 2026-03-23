@@ -52,7 +52,7 @@
 
 ## Star 趨勢
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Heng-xiu/LangGraph-Practical-Guide-to-Developing-AI-Agents&type=Date)](https://star-history.com/#Heng-xiu/LangGraph-Practical-Guide-to-Developing-AI-Agents&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Heng-xiu/notebooklm-productivity-playbook&type=Date)](https://star-history.com/#Heng-xiu/notebooklm-productivity-playbook&Date)
 
 ## 提問、回饋與貢獻此資料庫
 
