@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "如果您覺得這本書對您有幫助，請使用以下資訊引用。這是一本關於 NotebookLM 實戰應用的完全指南。"
+title: "NotebookLM 數位生產力：從資料整合到高效產出的知識工作術，打造你的 AI 思考特助"
+abstract: "本書完整拆解 NotebookLM 的核心功能與應用戰略，從個人筆記管理、創意發想到團隊知識協作，並透過生活、商務、學習等多元實戰案例，協助讀者打造專屬的 AI 知識內化系統。"
+date-released: 2026-04-02
+authors:
+  - family-names: "Sheu"
+    given-names: "Heng-Shiou"
+license: "CC-BY-NC-SA-4.0"
+url: "https://www.tenlong.com.tw/products/9786264144773"
+repository-code: "https://github.com/Heng-xiu/notebooklm-productivity-playbook"
+keywords:
+  - NotebookLM
+  - AI Productivity
+  - Knowledge Management
+  - Google AI
+  - Practical Guide
+  - Second Brain
