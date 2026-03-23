@@ -1,10 +1,10 @@
 
 # NotebookLM數位生產力：從資料整合到高效產出的知識工作術，打造你的AI思考特助
-<a href="https://www.tenlong.com.tw/products/9786264144773"><img src="MP22605.jpg" width="220px"></a>
+<a href="https://www.tenlong.com.tw/products/9786264144773"><img src="MP22605.png" width="220px"></a>
 
 此儲存庫為 博碩出版社《NotebookLM數位生產力：從資料整合到高效產出的知識工作術，打造你的AI思考特助》的搭配程式範例。
 一書中各章節實作所需的完整素材。讀者可以依照書中進度，將對應資料夾內的 PDF、圖片、或是 `.txt` 內的連結匯入 NotebookLM，親自體驗 AI 驅動的知識管理流程。
-上方圖片 `MP22605.jpg` 為書籍封面，已放在專案根目錄，可直接在 README 中顯示。
+上方圖片 `MP22605.png` 為書籍封面，已放在專案根目錄，可直接在 README 中顯示。
 
 ## 購書管道（點擊前往）
 
